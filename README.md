@@ -1,0 +1,1 @@
+# comparador_valor_bolsa
