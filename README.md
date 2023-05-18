@@ -1,6 +1,6 @@
-#### Compara o valor de uma ação da bolsa de valores para saber se está abaixo de um valor pré determinado...
+# Compara o valor de uma ação da bolsa de valores para saber se está abaixo de um valor pré determinado...
 
-### explicação linha a linha:
+## explicação linha a linha:
 
 import yfinance as yf: Importa a biblioteca yfinance e a renomeia para 'yf' para ser mais fácil de usar no código.
 
