@@ -27,3 +27,6 @@ print(f"O preço atual da ação {tickerSymbol} é {current_price:.2f} e está a
 else:: Caso o valor da ação seja maior ou igual a 24 reais.
 
 print(f"O preço atual da ação {tickerSymbol} é {current_price:.2f}."): Exibe a mensagem "O preço atual da ação PETR4.SA é {current_price:.2f}." com o valor da ação formatado em duas casas decimais.
+
+# Proximo passo e fazer com que o programa busque pelo nome da empresa
+
