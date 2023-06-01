@@ -13,7 +13,7 @@ def get_stock_price(tickerSymbol):
     current_price = tickerDF["Close"].iloc[-1]
     return current_price
 
-company_name = input('Digite o nome da ação: ')
+company_name = input('Digite o nome da ação que deseja pesquisar: ')
 tickerSymbol = get_ticker_symbol(company_name)
 current_price = get_stock_price(tickerSymbol)
 
