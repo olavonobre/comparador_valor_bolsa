@@ -30,3 +30,5 @@ print(f"O preço atual da ação {tickerSymbol} é {current_price:.2f}."): Exibe
 
 # Proximo passo e fazer com que o programa busque pelo nome da empresa
 
+# depois quero receber uma mensagem automatica no meu celular
+
